@@ -1,0 +1,66 @@
+﻿  stdafx.cpp
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\stdafx.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\stdafx.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\targetver.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  BSQH_dll_MR_Shin.cpp
+  BSQH_MR_SHIN_Algorithm.cpp
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\BSQH_MR_SHIN_Algorithm.cpp(411,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Data_Structures.cpp
+  DP173_Initial_Fast_OC_Related.cpp
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP173_Initial_Fast_OC_Related.cpp(185,109): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP173_Initial_Fast_OC_Related.cpp(189,94): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP173_Initial_Fast_OC_Related.cpp(479,64): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP173_Initial_Fast_OC_Related.cpp(1065,64): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DP213_Initial_Fast_OC_Related.cpp
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(77,164): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(78,168): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(79,166): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(81,187): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(82,193): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(83,190): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(162,164): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(163,168): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(164,166): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(166,187): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(167,193): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(168,190): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(278,164): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(279,168): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(280,166): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(282,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(283,188): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(284,185): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\DP213_Initial_Fast_OC_Related.cpp(690,64): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Meta_Initial_Fast_OC_Related.cpp
+  OC_Weights.cpp
+  Optic_Compensation.cpp
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\Optic_Compensation.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\Optic_Compensation.cpp(1153,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  SJH_Matrix.cpp
+  SplineInterpolator.cpp
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\SplineInterpolator.cpp(11,1): warning C4297: 'CreateMonotoneCubicSpline': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\SplineInterpolator.cpp(11,1): message : extern "C" 함수인데 /EHc를 지정했습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\SplineInterpolator.cpp(22,1): warning C4297: 'CreateMonotoneCubicSpline': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\SplineInterpolator.cpp(22,1): message : extern "C" 함수인데 /EHc를 지정했습니다.
+  dllmain.cpp
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\stdafx.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\BSQH_dll_MR_Shin\targetver.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\x64\Release\BSQH_dll_MR_Shin.lib 라이브러리 및 C:\신종현 프로그램 관련\BSQH_Program_MR_Shin_All_Model_201006_PM\CPP_BSQH_dll_MR_Shin\Make_Dll\x64\Release\BSQH_dll_MR_Shin.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+c:\������ ���α׷� ����\bsqh_program_mr_shin_all_model_201006_pm\cpp_bsqh_dll_mr_shin\make_dll\bsqh_dll_mr_shin\stdafx.cpp : fatal error C1001: 내부 컴파일러 오류가 발생했습니다.
+  (컴파일러 파일 'd:\agent\_work\5\s\src\vctools\Compiler\Utc\src\p2\main.c', 줄 182)
+   이 문제를 해결하려면 위 목록에 나오는 위치 부근의 프로그램을 단순화하거나 변경하세요.
+  가능한 경우 https://developercommunity.visualstudio.com에서 재현해 주세요. 
+  자세한 내용을 보려면 Visual C++ [도움말] 메뉴에서 [기술 지원] 명령을 
+   선택하거나 기술 지원 도움말 파일을 참조하세요.
+    link!RaiseException()+0x62
+    link!CxxThrowException()+0x66
+    link!std::_Xout_of_range()+0x1f
+    link!InvokeCompilerPass()+0x3aec8
+    link!InvokeCompilerPass()+0x27c2c
+    link!InvokeCompilerPass()+0x28d79
+    link!InvokeCompilerPass()+0x38ddf
+    link!CloseTypeServerPDB()+0xbdd46
+  
+  
+LINK : fatal error LNK1000: Internal error during IMAGE::BuildImage
